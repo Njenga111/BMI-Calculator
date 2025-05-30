@@ -1,1 +1,1 @@
-This file contains a BMI calulator. 
+This file contains a BMI calul
