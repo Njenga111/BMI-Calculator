@@ -6,13 +6,13 @@ A responsive, theme-adaptive Body Mass Index (BMI) calculator built with HTML, C
 
 ##  Features
 
--  **Metric and Imperial Units**
-- **Multiple Themes**: Light, Dark, High Contrast, and Colorblind Friendly
-- **Interactive Charts**: Progress tracking, analysis, and body composition
-   **BMI History Tracking**: Stored in local storage with export options (CSV, JSON, PDF)
-- 📈 **Health Metrics**: Calculates BMI, Body Fat %, BMR, and TDEE
-- 📦 **Recommendations**: Personalized nutrition and exercise tips
-- 🧠 **Modal Explanation**: Includes BMI limitations and additional info
+**Metric and Imperial Units**
+**Multiple Themes**: Light, Dark, High Contrast, and Colorblind Friendly
+**Interactive Charts**: Progress tracking, analysis, and body composition
+**BMI History Tracking**: Stored in local storage with export options (CSV, JSON, PDF)
+**Health Metrics**: Calculates BMI, Body Fat %, BMR, and TDEE
+**Recommendations**: Personalized nutrition and exercise tips
+**Modal Explanation**: Includes BMI limitations and additional info
 
 ---
 
