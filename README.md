@@ -44,7 +44,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 - Developed by **[Dominic Njenga]**
 - Inspired by public health awareness and UX best practices.
