@@ -26,7 +26,7 @@ A responsive, theme-adaptive Body Mass Index (BMI) calculator built with HTML, C
 
 ---
 
-## 📁 How to Use
+##  How to Use
 
 1. Clone or download the repository.
 2. Open `bmi-calculator.html` in any modern web browser.
