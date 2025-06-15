@@ -30,10 +30,11 @@ A responsive, theme-adaptive Body Mass Index (BMI) calculator built with HTML, C
 
 1. Clone or download the repository.
 2. Open `bmi-calculator.html` in any modern web browser.
-3. Select your unit system and enter your 
-4. Click **"Calculate BMI & Health Metrics"** to view results.
-5. Navigate through the tabs for history, progress, and analytics.
-6. Export your data via **CSV**, **JSON**, or **PDF**.
+3. Select your unit system and enter your
+data.
+5. Click **"Calculate BMI & Health Metrics"** to view results.
+6. Navigate through the tabs for history, progress, and analytics.
+7. Export your data via **CSV**, **JSON**, or **PDF**.
 
 ---
 
