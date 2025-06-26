@@ -1,4 +1,4 @@
-#  Advanced BMI Calculator
+#  Advanced BMI C
 
 A responsive, theme-adaptive Body Mass Index (BMI) calculator built with HTML, CSS, and JavaScript. It provides detailed health metrics including body fat percentage, BMR, TDEE, ideal weight range, and visual analytics.
 
